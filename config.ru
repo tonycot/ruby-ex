@@ -234,7 +234,6 @@ pre {
           <section class='col-xs-12 col-sm-6 col-md-6'>
             <section>
               <h2>Let's check how it works</h2>
-                <img url="https://yt3.ggpht.com/-V92UP8yaNyQ/AAAAAAAAAAI/AAAAAAAAAAA/zOYDMx8Qk3c/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" alt="Mountain View" style="width:304px;height:228px;">
         </div>
 
         <footer>
