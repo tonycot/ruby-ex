@@ -233,7 +233,7 @@ pre {
         <div class="row">
           <section class='col-xs-12 col-sm-6 col-md-6'>
             <section>
-              <h2>Let's check how it works</h2>
+              <h2>Sosi Pisos</h2>
         </div>
 
         <footer>
